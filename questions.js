@@ -8,11 +8,11 @@ export const questions = [
         CorrAns: 'Inca'},
 
     { Question: 'What is the only mammal capable of true flight?',
-        Answers:['Flying Squirrel', 'Bat', 'Sugar Glider', 'Colugo'],
+        Answers:['Flying Squirrel', 'Sugar Glider', 'Bat', 'Colugo'],
         CorrAns: 'Bat'},
 
     { Question: 'In Norse mythology, who is the god of mischief?',
-        Answers: ['Thor', 'Loki', 'Odin', 'Freyr'],
+        Answers: ['Thor', 'Freyr', 'Odin', 'Loki'],
         CorrAns: 'Loki'},
 
     { Question: 'Which year did the Berlin Wall fall?',
@@ -24,11 +24,11 @@ export const questions = [
         CorrAns: '55'},
 
     { Question: 'Who wrote the book "The Master and Margarita"?',
-        Answers: ['Fyodor Dostoevsky', 'Mikhail Bulgakov', 'Leo Tolstoy', 'Anton Chekhov'],
+        Answers: [ 'Mikhail Bulgakov', 'Fyodor Dostoevsky', 'Leo Tolstoy', 'Anton Chekhov'],
         CorrAns: 'Mikhail Bulgakov'},
 
     { Question: 'What is the second smallest country by land area in the world?',
-        Answers: ['Monaco', 'Nauru', 'Liechtenstein', 'San Marino'],
+        Answers: ['Liechtenstein', 'Nauru', 'Monaco', 'San Marino'],
         CorrAns: 'Monaco'},
 
     { Question: 'Which chemical compound has the formula C6H12O6?',
@@ -36,10 +36,11 @@ export const questions = [
         CorrAns: 'Glucose'},
 
     { Question: 'In Greek mythology, who was cursed to turn everything he touched into gold?',
-        Answers: ['Midas', 'Cronus', 'Hades', 'Hermes'],
+        Answers: ['Hermes', 'Cronus', 'Hades', 'Midas'],
         CorrAns: 'Midas'},
 
     { Question: 'END',
         Answers: [],
         CorrAns: undefined }
+
 ];
